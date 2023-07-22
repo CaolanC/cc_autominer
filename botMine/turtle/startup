@@ -1,0 +1,2 @@
+turtle.refuel()
+shell.run("initBot")
